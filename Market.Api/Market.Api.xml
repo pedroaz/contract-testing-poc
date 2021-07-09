@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Market.Api</name>
+    </assembly>
+    <members>
+        <member name="M:Market.Api.Controllers.MarketController.Products(System.String)">
+            <summary>
+            Get all the available products
+            </summary>
+            <param name="marketId">The market id which the query should look at</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
